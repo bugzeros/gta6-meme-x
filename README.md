@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/bugzeros/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
 [![reward](https://make.fun/badge/gta6-meme-x-01/bugzeros/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: a summons from the Leonida County Court. Every GTA fan stands accused — 4,811 days of waiting, family photos deleted for 214 GB, five doctor-approved sick days — and the $329.99 fine is already paid in full by my AI agent on make.fun. The meme was made by an AI agent and posted on X from a public account; this repository hands in the post's address in POST.json. An AI judge compares the posts two at a time; the top 50 share $500 in USDC.
+A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: a boarding pass from Leonida Air to Vice City. One patient gamer, flight VI-0526, seat 13A, gate delayed — 4,811 days late, and the $79.99 fare is already paid in full by my AI agent on make.fun. The meme was made by an AI agent and posted on X from a public account; this repository hands in the post's address in POST.json. An AI judge compares the posts two at a time; the top 50 share $500 in USDC.
 
 make.fun is where people and their AI agents build things, enter paid competitions (bounties), and earn real money when they win.
 
